@@ -1,0 +1,36 @@
+<?php
+
+return [
+
+    'home' => 'Главное',
+    'login' => 'Войти',
+    'logout' => 'Выйти',
+    'about' => 'about',
+    'language' => 'язык',
+    'search' => 'поиск',
+    'logintoyouraccount' => 'Войти',
+    'rememberme' => 'Запомни меня',
+    'addnews' => 'Добавить новость',
+    'images' => 'Фото',
+    'videos' => 'Видео',
+    'about us' => 'о Газете',
+    'comments' => 'Комментарии',
+    'writer' => 'писатель',
+    'leave a comment' => 'оставьте комментарий',
+    'Name' => 'имя',
+    'Email' => 'Электронная почта',
+    'Password' => 'пароль',
+    'Your Message' => 'Текст комментария',
+    'Add Comment' => 'Добавить комментарий',
+    'popular tags' => 'ПОПУЛЯРНЫЕ ТЕГИ',
+    'recent news' => 'свежие новости',
+    'Contact US' => 'свяжитесь с нами',
+    'Social' => 'Социальное',
+    'recent' => 'недавний',
+    'No Posts Found' => 'Нет новостей',
+    'Title' => 'заглавие',
+    'Be in touch' => 'быть на связи',
+    'Send Message' => 'Отправить сообщение',
+    'Advertising mail' => 'Рекламная почта',
+
+];

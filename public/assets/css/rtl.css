@@ -1,0 +1,39 @@
+.section1{
+	direction: rtl;
+	float: right;
+}
+
+.section2{
+	direction: ltr;
+
+}
+
+.section2 #weather{
+	text-align: left;
+}
+
+.section2 #weather{
+	float: left;
+}
+
+.section3{
+	direction: rtl;
+	float: right;
+}
+
+.section3 .navbar-brand{
+	float: right;
+}
+
+.section4{
+	float: right;
+}
+
+.section4 img{
+	float: left;
+}
+
+.section5{
+	direction: rtl;
+	float: right;
+}
